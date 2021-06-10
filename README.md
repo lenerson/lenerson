@@ -9,7 +9,7 @@ Here something about me:
 👯 I’m looking to collaborate on any backend and frontend projects 😉
 
 <a href="https://github.com/lenerson">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenerson&theme=synthwave&langs_count=3" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenerson&theme=synthwave&langs_count=6" />
 </a>
 
 #### Follow me on my social networks:
