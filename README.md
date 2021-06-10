@@ -8,9 +8,7 @@ Here something about me:
 
 👯 I’m looking to collaborate on any backend and frontend projects 😉
 
-<a href="https://github.com/lenerson">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenerson&theme=synthwave&langs_count=4" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenerson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Follow me on my social networks:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lenerson)](https://github.com/lenerson)
