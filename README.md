@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [leptonti](http://leptonti.com.br) as CTO and at [philips-emr](https://www.philips.com.br/healthcare/resources/landing/tasy) as Senior Software Architect
+- 🔭 I’m currently working at [leptonti](http://leptonti.com.br) as CTO and as Senior Software Architect
 - :muscle: I’m specialist in .NET, Architecture and Cloud Native Apps
 - 🌱 I too working with Java, Vue and Flutter Apps
 
