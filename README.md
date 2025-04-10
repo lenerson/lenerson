@@ -2,11 +2,9 @@
 
 Here something about me:
 
-- 🔭 I’m currently working at [leptonti](http://leptonti.com.br) as CTO and as Senior Software Architect
+- 🔭 I’m Founder | CEO | Head of Architecture at [Lepton Tech Solutions](http://lepton.tech)
 - :muscle: I’m specialist in .NET, Architecture and Cloud Native Apps
 - 🌱 I too working with Java, Vue and Flutter Apps
-
-👯 I’m looking to collaborate on any backend and frontend projects 😉
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenerson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
