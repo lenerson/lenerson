@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Founder &amp; CEO</strong> at <a href="https://lepton.tech">Lepton Tech Solutions</a><br>
-  <strong>Distinguished Engineer</strong><br>
+  <strong>Architecture &amp; Engineering</strong><br>
   Caxias do Sul · RS · Brazil
 </p>
 
@@ -34,8 +34,6 @@
 </p>
 
 ---
-
-## English
 
 I build software for companies that have outgrown their systems.
 
@@ -72,5 +70,5 @@ Small, focused examples of the patterns I use in production work:
 ---
 
 <p align="center">
-  <sub>Building at <a href="https://github.com/lepton-tech">@lepton-tech</a> · Aberto a conversas sobre arquitetura, modernização de legado e IA aplicada.</sub>
+  <sub>Building at <a href="https://github.com/lepton-tech">@lepton-tech</a> · Open to conversations about architecture, legacy modernization and applied AI.</sub>
 </p>
